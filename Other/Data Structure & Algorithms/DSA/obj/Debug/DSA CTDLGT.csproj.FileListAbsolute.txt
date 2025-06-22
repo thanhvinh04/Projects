@@ -1,0 +1,135 @@
+D:\Code. C#\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe.config
+D:\Code. C#\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe
+D:\Code. C#\DSA CTDLGT\bin\Debug\DSA CTDLGT.pdb
+D:\Code. C#\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.AssemblyReference.cache
+D:\Code. C#\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Form1.resources
+D:\Code. C#\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Properties.Resources.resources
+D:\Code. C#\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.GenerateResource.cache
+D:\Code. C#\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CoreCompileInputs.cache
+D:\Code. C#\DSA CTDLGT\obj\Debug\DSA CTDLGT.exe
+D:\Code. C#\DSA CTDLGT\obj\Debug\DSA CTDLGT.pdb
+D:\Code. C#\DSA CTDLGT\bin\Debug\BouncyCastle.Crypto.dll
+D:\Code. C#\DSA CTDLGT\bin\Debug\itextsharp.dll
+D:\Code. C#\DSA CTDLGT\bin\Debug\itextsharp.xml
+D:\Code. C#\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CopyComplete
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe.config
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA CTDLGT\bin\Debug\DSA CTDLGT.pdb
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA CTDLGT\bin\Debug\BouncyCastle.Crypto.dll
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA CTDLGT\bin\Debug\itextsharp.dll
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA CTDLGT\bin\Debug\itextsharp.xml
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.AssemblyReference.cache
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Form1.resources
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Properties.Resources.resources
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.GenerateResource.cache
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CoreCompileInputs.cache
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CopyComplete
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA CTDLGT\obj\Debug\DSA CTDLGT.exe
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA CTDLGT\obj\Debug\DSA CTDLGT.pdb
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe.config
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\bin\Debug\DSA CTDLGT.pdb
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\bin\Debug\itextsharp.dll
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\bin\Debug\itextsharp.xml
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Form1.resources
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.exe
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.pdb
+C:\Users\ADMIN\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Formbd.resources
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe.config
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\bin\Debug\DSA CTDLGT.pdb
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\bin\Debug\itextsharp.dll
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\bin\Debug\itextsharp.xml
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.AssemblyReference.cache
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Form1.resources
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Formbd.resources
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Properties.Resources.resources
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.GenerateResource.cache
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CoreCompileInputs.cache
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CopyComplete
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.exe
+C:\Users\The Anh\Downloads\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.pdb
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe.config
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\bin\Debug\DSA CTDLGT.pdb
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\bin\Debug\BouncyCastle.Crypto.dll
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\bin\Debug\itextsharp.dll
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\bin\Debug\itextsharp.xml
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.AssemblyReference.cache
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Form1.resources
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Formbd.resources
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Properties.Resources.resources
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.GenerateResource.cache
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CoreCompileInputs.cache
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CopyComplete
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.exe
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.pdb
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe.config
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\bin\Debug\DSA CTDLGT.pdb
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\bin\Debug\BouncyCastle.Crypto.dll
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\bin\Debug\itextsharp.dll
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\bin\Debug\itextsharp.xml
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.AssemblyReference.cache
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Form1.resources
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Formbd.resources
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Properties.Resources.resources
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.GenerateResource.cache
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CoreCompileInputs.cache
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CopyComplete
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.exe
+D:\UEH\Năm 2\Cấu trúc dữ liệu và giải thuật\Fianl\DSA TA\DSA CTDLGT\obj\Debug\DSA CTDLGT.pdb
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe.config
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\bin\Debug\DSA CTDLGT.pdb
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\bin\Debug\itextsharp.dll
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\bin\Debug\itextsharp.xml
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.AssemblyReference.cache
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Form1.resources
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Formbd.resources
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Properties.Resources.resources
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.GenerateResource.cache
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CopyComplete
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.exe
+C:\Users\Nguyen Thanh Vinh\Downloads\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.pdb
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe.config
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\bin\Debug\DSA CTDLGT.pdb
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\bin\Debug\itextsharp.dll
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\bin\Debug\itextsharp.xml
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.AssemblyReference.cache
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Form1.resources
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Formbd.resources
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Properties.Resources.resources
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.GenerateResource.cache
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CopyComplete
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.exe
+C:\Users\Nguyen Thanh Vinh\Downloads\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.pdb
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe.config
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\bin\Debug\DSA CTDLGT.exe
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\bin\Debug\DSA CTDLGT.pdb
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\bin\Debug\itextsharp.dll
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\bin\Debug\itextsharp.xml
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.AssemblyReference.cache
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Form1.resources
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Formbd.resources
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA_CTDLGT.Properties.Resources.resources
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.GenerateResource.cache
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CoreCompileInputs.cache
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.csproj.CopyComplete
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.exe
+C:\Users\The Anh\OneDrive\Máy tính\NHÓM 1 BÀI 5\DSA Final\DSA CTDLGT\obj\Debug\DSA CTDLGT.pdb
