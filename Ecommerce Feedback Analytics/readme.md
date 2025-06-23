@@ -1,7 +1,7 @@
 # 📝 **ECOMMERCE FEEDBACK ANALYSIS**
 
-****Note***: Dashboard bên trên chỉ là một dự án mô phỏng với nguồn dữ liệu là các sản phẩm **quần áo**, không phải là bài toán áp dụng thật cho doanh nghiệp thực tập (**vì lý do bảo mật**)*
-***Tuy nhiên, tôi có một dự án tương tự cho môn NLP của mình, bạn có thể tham khảo tại đây***
+****Note***: Dashboard bên trên chỉ là một dự án mô phỏng với nguồn dữ liệu là các sản phẩm **quần áo**, không phải là bài toán áp dụng thật cho doanh nghiệp thực tập (**vì lý do bảo mật**)* <br>
+***Tuy nhiên, tôi có một dự án tương tự cho môn NLP của mình, bạn có thể tham khảo tại đây https://github.com/thanhvinh04/FEEDBACK-ANALYSIS***
 
 ## 📌 **Tổng quan dự án**
 
