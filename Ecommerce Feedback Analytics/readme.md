@@ -44,15 +44,10 @@ Thông qua việc ứng dụng **Machine Learning** và công cụ **Business In
 
 ## 📊 **Kết quả đạt được**
 
-- ✅ **Phân tích chủ đề (Topic Modeling)** cho thấy 5 chủ đề phản hồi phổ biến: chất lượng sản phẩm, giao hàng, đóng gói, chăm sóc khách hàng và giá cả.
-- ✅ **Phân tích cảm xúc** giúp xác định tỷ lệ phản hồi tiêu cực cao nhất nằm ở chủ đề "giao hàng trễ", trong khi chủ đề "giá cả" nhận nhiều phản hồi tích cực.
-- ✅ **Phân cụm khách hàng** giúp xác định nhóm:
-  - Người dùng thường xuyên phản ánh tiêu cực
-  - Người dùng trung lập dễ bị mất nếu không có cải thiện
-  - Người dùng hài lòng cao, có khả năng trung thành
+- ✅ **Phân tích chủ đề (Topic Modeling)** cho các chủ đề phản hồi phổ biến: chất lượng sản phẩm, đóng gói và giao hàng...
+- ✅ **Phân tích cảm xúc** giúp xác định tỷ lệ phản hồi tích cựu/tiêu cực cao nhất nằm ở chủ đề cụ thể nào.
 - ✅ **Dashboard Power BI** cung cấp góc nhìn toàn diện:
   - Xu hướng cảm xúc theo thời gian
   - So sánh phản hồi theo ngành hàng / sản phẩm
   - Mức độ hài lòng theo nhóm khách hàng
-- ✅ Đưa ra các khuyến nghị thực tế: cải thiện tốc độ giao hàng, thiết kế chương trình ưu đãi cho khách hàng tiêu cực – trung lập để cải thiện hình ảnh thương hiệu.
-- 
+  - Chỉ ra các **keyword** khách hàng đề cập nhiều nhất và tính chất phản hồi của nó (tích cực/tiêu cực)
