@@ -1,0 +1,39 @@
+📝 MOVIE THEATRE DATA ANALYTICS
+
+📌 Mô tả ngắn gọn
+- Đề tài "Phân tích dữ liệu rạp chiếu phim" nhằm mục tiêu khai thác và phân tích các nguồn dữ liệu như lịch chiếu, doanh thu bán vé, chi tiết các vé bán và các loại hình phim để cung cấp những thông tin chi tiết hỗ trợ quá trình ra quyết định. Thông qua việc áp dụng các công cụ BI, thực hiện nghiên cứu xây dựng hệ thống báo cáo và trực quan hóa dữ liệu, giúp ban quản lý rạp phim nắm bắt kịp thời xu hướng thị trường, tối ưu hóa lịch chiếu, quản lý hiệu quả nguồn lực và nâng cao trải nghiệm khách hàng. Đề tài hướng đến việc phần nâng cao hiệu quả kinh doanh của rạp chiếu phim và mở ra hướng tiếp cận mới trong việc ứng dụng BI vào lĩnh vực giải trí.
+
+- Dự án được thực hiện bằng các công cụ như Python, , Excel/Google Sheet, Power BI và tập trung vào kỹ năng nổi bật như tìm vấn đề, làm sạch dữ liệu, trực quan hóa, xây dựng dashboard,...
+
+🧠 Mục tiêu dự án
+ + Hiểu và khám phá dữ liệu
+
+ + Làm sạch, xử lý dữ liệu để sử dụng cho phân tích
+
+ + Phân tích xu hướng, mối quan hệ và insight tiềm năng
+
+ + Trực quan hóa kết quả để dễ dàng hiểu và ra quyết định
+
+ + Áp dụng thuật toán phân cụm để tìm nhóm khách hàng tiềm năng
+
+🗂️ Dữ liệu sử dụng
+Nguồn dữ liệu: Cuộc thi Phân tích dữ liệu
+
+Thông tin chính: thông tin khách hàng, thông tin phim chiếu, dữ liệu lịch sử bán vé...
+
+🔧 Công cụ & Kỹ thuật
++ Excel: Làm sạch dữ liệu, kiểm tra kết quả
++ Python (KMeans, DBSCAN):	Làm sạch và phân cụm
++ Power BI: Thiết kế dashboard
+
+📊 Kết quả đạt được
+
+- Phân cụm thành công khách hàng theo hành vi tiêu dùng dựa trên mô hình KMeans và DBSCAN:
++ KMeans chia khách hàng thành 4 nhóm rõ rệt, giúp xác định nhóm "khách hàng ngủ quên", nhóm khách VIP, và nhóm khách hàng tiềm năng để thực hiện các chiến lược marketing phù hợp.
++ DBSCAN phát hiện thêm nhóm khách hàng có hành vi chi tiêu cực lớn bị KMeans bỏ sót, hỗ trợ cá nhân hóa trải nghiệm tốt hơn
+
+- Xây dựng thành công hệ thống dashboard bằng Power BI, bao gồm:
++ Dashboard tổng quan doanh nghiệp: theo dõi doanh thu, số vé bán, số suất chiếu, tỷ lệ mua vé online, tiêu thụ bắp nước,...
++ Customer Dashboard: phân tích đặc điểm độ tuổi, hình thức đi xem phim, mức chi tiêu của khách hàng.
++ Scheduling Dashboard: tối ưu lịch chiếu theo ngày, giờ, thời lượng và đối tượng kháchDỰ ÁN CUỐI KỲ BI
+
