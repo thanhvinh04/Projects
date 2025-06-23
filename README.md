@@ -1,5 +1,5 @@
 # 👋 **Giới thiệu về tôi**  
-Tôi là một người đam mê và có động lực cao trong lĩnh vực **phân tích dữ liệu**.  
+Tôi là một người đam mê và có động lực cao trong lĩnh vực **phân tích và dữ liệu**.  
 Tôi đã rèn luyện kỹ năng của mình thông qua kinh nghiệm thực tế trong nhiều dự án.  
 Các kỹ năng của tôi được trình bày bên dưới.
 
