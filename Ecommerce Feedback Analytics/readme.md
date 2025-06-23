@@ -1,5 +1,7 @@
 # 📝 **ECOMMERCE FEEDBACK ANALYSIS**
 
+****Note***: Dashboard bên trên chỉ là một dự án mô phỏng với nguồn dữ liệu là các sản phẩm **quần áo**, không phải là bài toán áp dụng thật cho doanh nghiệp thực tập (**vì lý do bảo mật**)*
+
 ## 📌 **Tổng quan dự án**
 
 Dự án này nhằm phân tích phản hồi của khách hàng trên nền tảng thương mại điện tử **Shopee** để hiểu rõ các vấn đề mà khách hàng đang gặp phải, từ đó hỗ trợ doanh nghiệp:
@@ -52,4 +54,3 @@ Thông qua việc ứng dụng **Machine Learning** và công cụ **Business In
   - Mức độ hài lòng theo nhóm khách hàng
   - Chỉ ra các **keyword** khách hàng đề cập nhiều nhất và tính chất phản hồi của nó (tích cực/tiêu cực)
  
-  ***Note***: Dashboard bên trên chỉ là một dự án mô phỏng với nguồn dữ liệu là các sản phẩm **quần áo**, không phải là bài toán áp dụng thật cho doanh nghiệp thực tập (***vì lý do bảo mật***)
